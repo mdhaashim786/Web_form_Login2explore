@@ -13,4 +13,10 @@ A web form developed using Jquery and javascript with combination of html, css a
 ##
 **Release history**
 JsonPowerDB: Release
-Major development and release happened during Covid-19 pandemic in lockdown period. This release Added very useful APIs (1) Started supporting GEOSpatial APIs - with serverless features. (2) SET & SET_ALL command API to serve both PUT and UPDATE with soft-unique-key implementation. (3) Serverless universal Big Counter / Accumulator API.
+Major development and release happened during Covid-19 pandemic in lockdown period. This release Added very useful APIs 
+(1) Started supporting GEOSpatial APIs - with serverless features. 
+(2) SET & SET_ALL command API to serve both PUT and UPDATE with soft-unique-key implementation. 
+(3) Serverless universal Big Counter / Accumulator API.
+##
+**Scope of the project**
+This project gives a real exposure how to integrate the JSONPowerDB with the web software/webpage and with mobile applications. It is very easy to integrate with any application.
